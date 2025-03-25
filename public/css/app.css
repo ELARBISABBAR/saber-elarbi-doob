@@ -3,6 +3,25 @@ nav{
     align-items: center;
     justify-content: center;
     gap: 150px;
-    background-color: blue;
+    padding-top: 5px;
     
+}
+
+.Homee, a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    gap: 40px;
+    color: rgb(21, 21, 206); 
+}
+.Hemi{
+    color: rgb(221, 59, 0);
+}
+
+.Cont{
+    display: flex;
+    background-color: white;
+    border: 1px solid rgb(238, 236, 236);
+    color:  rgb(221, 59, 0);
+    padding: 10px 15px 10px 15px;
 }
