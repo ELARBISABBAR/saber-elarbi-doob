@@ -252,16 +252,4 @@ section {
     padding-inline: 250px;
 }
 
-@media (max-width: 767px) {
-    .melange {
-        display: flex ;
-        flex-direction: column;
-        width: 100%;
-        position: relative;
 
-    }
-    .us{
-        width: 100%;
-        position: absolute;
-    }
-}
