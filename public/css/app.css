@@ -97,3 +97,32 @@
     flex-direction: column;
     padding-inline: 250px;
 }
+@media (max-width: 767px){
+.parent{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.msg input{
+    width: 400PX;
+    
+}
+.link a{
+    display: none;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+}
