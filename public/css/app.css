@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 
 /* navbar */
 
->>>>>>> simo
 nav{
     display: flex;
     align-items: center;
@@ -30,8 +27,7 @@ nav{
     border: 1px solid rgb(238, 236, 236);
     color:  rgb(221, 59, 0);
     padding: 10px 15px 10px 15px;
-<<<<<<< HEAD
-=======
+
 }
 
 /* section1 */
@@ -66,11 +62,8 @@ section{
 .butom1{
     display: flex;
     gap: 20px;
-<<<<<<< HEAD
->>>>>>> simo
 }
-=======
-}
+
 .botoum{
     background-color: rgb(248, 113, 64);
     border: none;
@@ -137,4 +130,3 @@ section{
 .icon{
     color: rgb(7, 7, 117);
 }
->>>>>>> simo
